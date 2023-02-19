@@ -7,6 +7,8 @@ namespace ForensicFileRecovery
     {
         static void Main(string[] args)
         {
+            //Testing Commit
+            Console.WriteLine("Test Commit");
             // Set the directory to search for files
             string searchDirectory = "C:\\";
 
