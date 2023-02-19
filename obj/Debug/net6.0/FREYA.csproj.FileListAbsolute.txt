@@ -1,0 +1,15 @@
+/workspaces/FREYA/bin/Debug/net6.0/FREYA
+/workspaces/FREYA/bin/Debug/net6.0/FREYA.deps.json
+/workspaces/FREYA/bin/Debug/net6.0/FREYA.runtimeconfig.json
+/workspaces/FREYA/bin/Debug/net6.0/FREYA.dll
+/workspaces/FREYA/bin/Debug/net6.0/FREYA.pdb
+/workspaces/FREYA/obj/Debug/net6.0/FREYA.csproj.AssemblyReference.cache
+/workspaces/FREYA/obj/Debug/net6.0/FREYA.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/FREYA/obj/Debug/net6.0/FREYA.AssemblyInfoInputs.cache
+/workspaces/FREYA/obj/Debug/net6.0/FREYA.AssemblyInfo.cs
+/workspaces/FREYA/obj/Debug/net6.0/FREYA.csproj.CoreCompileInputs.cache
+/workspaces/FREYA/obj/Debug/net6.0/FREYA.dll
+/workspaces/FREYA/obj/Debug/net6.0/refint/FREYA.dll
+/workspaces/FREYA/obj/Debug/net6.0/FREYA.pdb
+/workspaces/FREYA/obj/Debug/net6.0/FREYA.genruntimeconfig.cache
+/workspaces/FREYA/obj/Debug/net6.0/ref/FREYA.dll
