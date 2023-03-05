@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "hWdLD5Q5s4CL4vgQaoVUfxK5YoXLarTBbdwH3G8C2ov6xKRsIbCc0d1xGZnYmeZxAw+FeoP3G0xVN7Wyb7OfBQ==",
+  "dgSpecHash": "arMCg1FkwOTGrBTCxdSc/eVu1xMNNoTZiDG1NYFJ1tad5WMYBUKCpcIrAW2UYkycOQkXNYHyusIXvN5FZQhF/w==",
   "success": true,
   "projectFilePath": "/workspaces/FREYA/FREYA.csproj",
   "expectedPackageFiles": [
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.codedom/7.0.0/system.codedom.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.management/7.0.0/system.management.7.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.14/microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512"
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.14/microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }
